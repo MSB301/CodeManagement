@@ -1,0 +1,3871 @@
+{
+    "errors": [],
+    "warnings": [],
+    "version": "1.15.0",
+    "hash": "53be651af98f0597f520",
+    "publicPath": "/",
+    "assetsByChunkName": {
+        "vendor": [
+            "/assets/js/vendor.js",
+            "assets/css/vendor.css"
+        ],
+        "main": [
+            "/assets/js/main.js",
+            "assets/css/main.css"
+        ]
+    },
+    "assets": [
+        {
+            "name": "/assets/js/vendor.js",
+            "size": 3272336,
+            "chunks": [
+                0
+            ],
+            "chunkNames": [
+                "vendor"
+            ]
+        },
+        {
+            "name": "/assets/js/main.js",
+            "size": 1596826,
+            "chunks": [
+                1
+            ],
+            "chunkNames": [
+                "main"
+            ]
+        },
+        {
+            "name": "assets/css/main.css",
+            "size": 192544,
+            "chunks": [
+                1
+            ],
+            "chunkNames": [
+                "main"
+            ]
+        },
+        {
+            "name": "assets/css/vendor.css",
+            "size": 12052,
+            "chunks": [
+                0
+            ],
+            "chunkNames": [
+                "vendor"
+            ]
+        },
+        {
+            "name": "../ui-builder_config.json",
+            "size": 99,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "../ui-builder-mashup/ui-builder.qext",
+            "size": 330,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "../ui-builder-mashup/wbfolder.wbl",
+            "size": 11,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "../ui-builder-mashup/ui-builder.css",
+            "size": 726,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "../ui-builder-mashup/index.html",
+            "size": 6463,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/font-awesome/fontawesome-webfont.woff",
+            "size": 98024,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/font-awesome/fontawesome-webfont.woff2",
+            "size": 77160,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/font-awesome/fontawesome-webfont.eot",
+            "size": 165742,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/font-awesome/fontawesome-webfont.svg",
+            "size": 447050,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/font-awesome/fontawesome-webfont.ttf",
+            "size": 165548,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/font-awesome/FontAwesome.otf",
+            "size": 134808,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Poppins/Poppins-Bold.ttf",
+            "size": 151752,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Poppins/OFL.txt",
+            "size": 4463,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Poppins/Poppins-Regular.ttf",
+            "size": 156480,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Poppins/Poppins-Light.ttf",
+            "size": 156104,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Poppins/Poppins-Medium.ttf",
+            "size": 155248,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Roboto/Roboto-Italic.ttf",
+            "size": 154948,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Poppins/Poppins-SemiBold.ttf",
+            "size": 153432,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/html/custom_footer.html",
+            "size": 454,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Roboto/Roboto-MediumItalic.ttf",
+            "size": 155136,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Roboto/Roboto-Regular.ttf",
+            "size": 149332,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/fonts/Roboto/Roboto-Medium.ttf",
+            "size": 149448,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/big_white_logo.svg",
+            "size": 2902,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/divider/Divider 1.PNG",
+            "size": 1127,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/html/custom_landing_page.html",
+            "size": 834,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/default.png",
+            "size": 2766,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/divider/Divider 2.PNG",
+            "size": 1158,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/divider/Divider 3.PNG",
+            "size": 1217,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/divider/Divider 4.PNG",
+            "size": 1625,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/clarity.png",
+            "size": 35610,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/add_button_icon.svg",
+            "size": 484,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/divider/Divider 5.PNG",
+            "size": 1555,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/addboard_card_button.svg",
+            "size": 1191,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/filter/filter-theme-top-full-width.png",
+            "size": 16887,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/add.svg",
+            "size": 484,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/filter/filter-theme-default.png",
+            "size": 11987,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/addboard_card_button_white.svg",
+            "size": 1033,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/filter/filter-theme-top-full-width-dynamic.png",
+            "size": 16021,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/app_integration.svg",
+            "size": 1968,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/angle-arrow-pointing-to-right.svg",
+            "size": 1162,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/annotation-normal.svg",
+            "size": 904,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/annotation-active.svg",
+            "size": 898,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/annotation_icon.svg",
+            "size": 1136,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/artist.svg",
+            "size": 3084,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/attach.svg",
+            "size": 1356,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/back_arrow_window.svg",
+            "size": 582,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/anotation_edit_icon.svg",
+            "size": 1165,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/back_move_icon.svg",
+            "size": 761,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/attachement_icon.svg",
+            "size": 506,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bar_chart.svg",
+            "size": 874,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bell.svg",
+            "size": 2483,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bell2.svg",
+            "size": 1283,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bell3.svg",
+            "size": 1442,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bell4.svg",
+            "size": 1168,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/board_db_icon.svg",
+            "size": 3305,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/board.svg",
+            "size": 2752,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bookmark-active.svg",
+            "size": 569,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bookmark-normal.svg",
+            "size": 572,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/boards2.svg",
+            "size": 873,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bookmark.svg",
+            "size": 901,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/board_db_icon_white.svg",
+            "size": 3260,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/border.svg",
+            "size": 3097,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/bright.svg",
+            "size": 901,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/calendar.svg",
+            "size": 501,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/calci.svg",
+            "size": 1211,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/camera.svg",
+            "size": 1854,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/broom.svg",
+            "size": 1433,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/call.svg",
+            "size": 2889,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/card_move_icon.svg",
+            "size": 776,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_1_active.svg",
+            "size": 1134,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_1.svg",
+            "size": 1676,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/camera_cover_picture_icon.svg",
+            "size": 1663,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_2_active.svg",
+            "size": 1264,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_1_normal.svg",
+            "size": 1134,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_3_active.svg",
+            "size": 1003,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_2_normal.svg",
+            "size": 1264,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_4_normal.svg",
+            "size": 1642,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_3.svg",
+            "size": 1676,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_2.svg",
+            "size": 2011,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_4_active.svg",
+            "size": 1642,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_5_active.svg",
+            "size": 1937,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_3_normal.svg",
+            "size": 1003,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_4.svg",
+            "size": 1999,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_5_normal.svg",
+            "size": 1959,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_6_active.svg",
+            "size": 1014,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_5.svg",
+            "size": 3104,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_7_nomal.svg",
+            "size": 2723,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_6.svg",
+            "size": 1469,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_6_normal.svg",
+            "size": 1090,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chat_minimize_icon.svg",
+            "size": 1079,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_7.svg",
+            "size": 4674,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chat-speech-balloon.svg",
+            "size": 832,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/coding.svg",
+            "size": 1198,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_selection_card_icon.svg",
+            "size": 1012,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/close_iocn.svg",
+            "size": 496,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/collapse_icon_right.svg",
+            "size": 487,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/collapse_icon_left.svg",
+            "size": 480,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chart_icon_7_active.svg",
+            "size": 2723,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chevron-sign-to-right.svg",
+            "size": 1696,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/customize_solution_icon.svg",
+            "size": 1208,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/database.svg",
+            "size": 372,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/chat.svg",
+            "size": 841,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/copyright.svg",
+            "size": 701,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/credit.svg",
+            "size": 1830,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/date_filter_icon.svg",
+            "size": 895,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/delete_red.svg",
+            "size": 477,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/delete.svg",
+            "size": 1253,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/document.svg",
+            "size": 891,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/down-arrow-white.svg",
+            "size": 697,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/drill_down_icon.svg",
+            "size": 1429,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/drag.svg",
+            "size": 597,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/drill_down_icon_hover.svg",
+            "size": 1026,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/dropdown_field_icon.svg",
+            "size": 399,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/edit-pencil.svg",
+            "size": 583,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/drop_down_icon.svg",
+            "size": 641,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/drop_down_icon-white.svg",
+            "size": 638,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/expand.svg",
+            "size": 570,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/duplicate.svg",
+            "size": 1769,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/expensive.svg",
+            "size": 3951,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/edit.svg",
+            "size": 834,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/favaroite_icon.svg",
+            "size": 565,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/favorite_hover_icon.svg",
+            "size": 570,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/export.svg",
+            "size": 1200,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/excel.svg",
+            "size": 2417,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/folder_icon_active.svg",
+            "size": 814,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/eye.svg",
+            "size": 1277,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/filter-icon-white.svg",
+            "size": 2335,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/filter-filled-tool-symbol.svg",
+            "size": 654,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/feather.svg",
+            "size": 1314,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/folder.svg",
+            "size": 276,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/group.svg",
+            "size": 2571,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/front_move_icon.svg",
+            "size": 758,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/grab.svg",
+            "size": 1690,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/growth_up_icon.svg",
+            "size": 549,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/folder_icon.svg",
+            "size": 649,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/growth_down_icon.svg",
+            "size": 576,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/grid.svg",
+            "size": 1094,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/integration.svg",
+            "size": 3476,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/group (1).svg",
+            "size": 644,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/help_icon.svg",
+            "size": 777,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/infosnap.svg",
+            "size": 497,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/leader.svg",
+            "size": 1921,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/info.svg",
+            "size": 1003,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/hanburgermenu.svg",
+            "size": 420,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/house-black-silhouette-without-door.svg",
+            "size": 1105,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/law.svg",
+            "size": 2577,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/interface.svg",
+            "size": 809,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/key.svg",
+            "size": 1322,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/left-arrow-calendar-active.svg",
+            "size": 419,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/left.svg",
+            "size": 971,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/library-bookmark_support.svg",
+            "size": 608,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/license.png",
+            "size": 2854,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/line-chart.svg",
+            "size": 1356,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/localization.svg",
+            "size": 1028,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/levels.svg",
+            "size": 2361,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/list.svg",
+            "size": 925,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/lock_white.svg",
+            "size": 1029,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/loadSpinner.svg",
+            "size": 2457,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/loader.svg",
+            "size": 1084,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/locked-shield.svg",
+            "size": 1191,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/lock_tag.svg",
+            "size": 961,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/lock.svg",
+            "size": 452,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/mail.svg",
+            "size": 1533,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/lock normal.svg",
+            "size": 1048,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/lock_active.svg",
+            "size": 1034,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/man.svg",
+            "size": 870,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/logout.svg",
+            "size": 2500,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/maximize_card_icon.svg",
+            "size": 824,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/menu-button-of-three-horizontal-lines.svg",
+            "size": 973,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/menu-symbol-of-three-parallel-lines (1).svg",
+            "size": 735,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/message_tick_black.svg",
+            "size": 279,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/menu.svg",
+            "size": 685,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/menu (1).svg",
+            "size": 684,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/message_tick_green.svg",
+            "size": 279,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/map.svg",
+            "size": 1164,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/message_send_icon.svg",
+            "size": 591,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/moon.svg",
+            "size": 520,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/minimize_icon_black.svg",
+            "size": 882,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/more_button_card.svg",
+            "size": 516,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/more_card_icon.svg",
+            "size": 740,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/minimize_icon.svg",
+            "size": 882,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/nature.svg",
+            "size": 2678,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/minimize_icon_white.svg",
+            "size": 882,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/navigate-up-arrow.svg",
+            "size": 1029,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/next.svg",
+            "size": 1033,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/notification-active.svg",
+            "size": 1217,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/notification_icon.svg",
+            "size": 1489,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/notification-normal.svg",
+            "size": 1220,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/paperclip.svg",
+            "size": 1448,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/people-share-icon-hover.svg",
+            "size": 990,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/pdf.svg",
+            "size": 3529,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/outbound_call.svg",
+            "size": 1832,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/people-share-icon-normal.svg",
+            "size": 1000,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/photo.svg",
+            "size": 1740,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/photo (1).svg",
+            "size": 1702,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/programmer.svg",
+            "size": 3125,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/pie-chart.svg",
+            "size": 374,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/photo_camera_hover.svg",
+            "size": 1495,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/picker.svg",
+            "size": 1941,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/pin.svg",
+            "size": 970,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/plugin.svg",
+            "size": 2093,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/qlik q.png",
+            "size": 20343,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/qlik-business-intelligence-software-dashboard-logo-others.jpg",
+            "size": 12389,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/qlik-icon.png",
+            "size": 37220,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/question.svg",
+            "size": 1222,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/radio_selected.svg",
+            "size": 692,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/radio_unselected.svg",
+            "size": 331,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/right.svg",
+            "size": 477,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/right-arrow-calendar-active.svg",
+            "size": 404,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/register.svg",
+            "size": 1096,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/refresh.svg",
+            "size": 1836,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/refresh_1.svg",
+            "size": 1343,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/refresh2.svg",
+            "size": 1616,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/round_select.svg",
+            "size": 1342,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/save.svg",
+            "size": 1347,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/risk.svg",
+            "size": 1220,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/rubber.svg",
+            "size": 1245,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/search_top_icon.svg",
+            "size": 584,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/secure.svg",
+            "size": 690,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/score (1).svg",
+            "size": 1526,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/search.svg",
+            "size": 674,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/score.svg",
+            "size": 1646,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/search_icon_filter.svg",
+            "size": 595,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/setting_icon.svg",
+            "size": 1298,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/select.svg",
+            "size": 1258,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/settings.svg",
+            "size": 2673,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/setting_card_icon.svg",
+            "size": 2590,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/shrink.svg",
+            "size": 569,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/share.svg",
+            "size": 308,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/share_people_icon.svg",
+            "size": 1717,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/settings (1).svg",
+            "size": 2104,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/share_1.svg",
+            "size": 2770,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/sign_out_icon.svg",
+            "size": 787,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/snap_capture_icon.svg",
+            "size": 1872,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/signs.svg",
+            "size": 2400,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/Solution_mobile icon.svg",
+            "size": 1066,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/sort.svg",
+            "size": 979,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/snapshot_field_icon.svg",
+            "size": 2319,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/speaker.svg",
+            "size": 2145,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/speed.svg",
+            "size": 1341,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/solution_icon_top.svg",
+            "size": 936,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/star.svg",
+            "size": 951,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/sports.svg",
+            "size": 1437,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/story_db_icon_white.svg",
+            "size": 1367,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/state-street-logo-white.svg",
+            "size": 4063,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/state-street-logo-white.png",
+            "size": 3667,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/story_small_icon.svg",
+            "size": 1026,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/thunder.svg",
+            "size": 675,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/tick_selected.svg",
+            "size": 597,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/tick_icon.svg",
+            "size": 270,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/story_db_icon.svg",
+            "size": 1376,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/sub_section_icon.svg",
+            "size": 590,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/time-and-date.svg",
+            "size": 2301,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/time-and-date (1).svg",
+            "size": 1341,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/summertime.svg",
+            "size": 2399,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/turn-left.svg",
+            "size": 911,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/undo (1).svg",
+            "size": 410,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/tick_unselected.svg",
+            "size": 750,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/undo.svg",
+            "size": 1116,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/trash.svg",
+            "size": 846,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/undraw_charts_jj6t.svg",
+            "size": 3503,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/undraw_connected_world_wuay.svg",
+            "size": 34754,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/unlock_normal.svg",
+            "size": 1032,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/unlock hover.svg",
+            "size": 1030,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/undraw_progress_data_4ebj.svg",
+            "size": 6934,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/up-arrow-green.svg",
+            "size": 611,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/user.svg",
+            "size": 1406,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/up-arrow-white.svg",
+            "size": 708,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/up-arrow.svg",
+            "size": 1043,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/usa.svg",
+            "size": 3769,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/upload-arrow.svg",
+            "size": 1384,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/usa_map.svg",
+            "size": 76742,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/user.png",
+            "size": 2101,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/user_2.svg",
+            "size": 852,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/view_arrrow_iocn_normal.svg",
+            "size": 543,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/view_arrrow_iocn_hover.svg",
+            "size": 542,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/user2.svg",
+            "size": 1337,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/wheel.svg",
+            "size": 4095,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/infoxd_logo_lb.svg",
+            "size": 2964,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/xlsx.svg",
+            "size": 2801,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Icons/users-group.svg",
+            "size": 3048,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/infoxd_logo.svg",
+            "size": 2964,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Logo_Blue_fav.svg",
+            "size": 1698,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Logo_White_fav.png",
+            "size": 5645,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Logo_White_fav.svg",
+            "size": 1682,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/solution/icon01.png",
+            "size": 10642,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/obj.png",
+            "size": 13215,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Primary_Logo_gold_icon.svg",
+            "size": 1912,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/pat-01.png",
+            "size": 1121,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/White_UI Builder.png",
+            "size": 7613,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/ui_builder_logo.svg",
+            "size": 8870,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/solution/icons-calix.png",
+            "size": 1452,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/Prism_landing_page_image.png",
+            "size": 182244,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/White_UI Builder.svg",
+            "size": 18168,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/js/polyfill.min.js",
+            "size": 99277,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/images/solution/icons-cloudtail.png",
+            "size": 1406,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/styles/style.css",
+            "size": 164346,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/styles/font-awesome/font-awesome.min.css",
+            "size": 32164,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "static/styles/bootstrap/bootstrap.min.css",
+            "size": 144908,
+            "chunks": [],
+            "chunkNames": []
+        },
+        {
+            "name": "webpack.stats.json",
+            "size": 0,
+            "chunks": [],
+            "chunkNames": []
+        }
+    ],
+    "chunks": [
+        {
+            "id": 0,
+            "rendered": true,
+            "initial": true,
+            "entry": true,
+            "extraAsync": false,
+            "size": 6834964,
+            "names": [
+                "vendor"
+            ],
+            "files": [
+                "/assets/js/vendor.js",
+                "assets/css/vendor.css"
+            ],
+            "hash": "28584821a6c840f25329",
+            "parents": [],
+            "origins": []
+        },
+        {
+            "id": 1,
+            "rendered": true,
+            "initial": true,
+            "entry": false,
+            "extraAsync": false,
+            "size": 3765611,
+            "names": [
+                "main"
+            ],
+            "files": [
+                "/assets/js/main.js",
+                "assets/css/main.css"
+            ],
+            "hash": "ff7bfd5b25208b1b4e20",
+            "parents": [
+                0
+            ],
+            "origins": [
+                {
+                    "moduleId": 0,
+                    "module": "multi main",
+                    "moduleIdentifier": "multi main",
+                    "moduleName": "multi main",
+                    "loc": "",
+                    "name": "main",
+                    "reasons": []
+                }
+            ]
+        }
+    ],
+    "children": [
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1709,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "c5b5ae79fa29e473b279",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\button\\button.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\button\\button.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/button/button.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1787,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "681df9ab6466a82fa3a6",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\emptyrecord\\emptyrecord.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\emptyrecord\\emptyrecord.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/emptyrecord/emptyrecord.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2198,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "e4e1fc5ae6693ea3ea83",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\form\\customdropdown.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\form\\customdropdown.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/form/customdropdown.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2025,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "6ec291bcb32a5f3d7f35",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\modal\\modal.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\modal\\modal.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/modal/modal.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2467,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "c6461aebf826f9ee9706",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\form\\radio.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\form\\radio.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/form/radio.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2018,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "1232803f391d8608d47a",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\loadspinner\\loadspinner.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\loadspinner\\loadspinner.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/loadspinner/loadspinner.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3534,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "51c20eb210bf903a63d9",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\toggleswitch\\toggleSwitch.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\toggleswitch\\toggleSwitch.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/toggleswitch/toggleSwitch.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2637,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "cddd89a0971c8129cf89",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\slider\\slider.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\slider\\slider.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/slider/slider.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1834,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "e649c7ffa7a8dffcb226",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\story\\cardStory.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\story\\cardStory.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/boards/story/cardStory.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2334,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "c023d4f57354f921be64",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\inputlistfilter\\inputlistfilter.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\inputlistfilter\\inputlistfilter.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/inputlistfilter/inputlistfilter.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3349,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "fae4f40b81e4bfd33d73",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boardslist\\banner\\bannerModal.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boardslist\\banner\\bannerModal.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/boards/boardslist/banner/bannerModal.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2441,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "0e4eb1016e308f6f4290",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boardslist\\calendar\\calendarModal.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boardslist\\calendar\\calendarModal.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/boards/boardslist/calendar/calendarModal.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2034,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "783a26b3d37c958d11bc",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\share\\sharedUsers\\sharedList.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\share\\sharedUsers\\sharedList.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/share/sharedUsers/sharedList.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2308,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "c2e758ff0ee98dc7a0f4",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\share\\sharedUsers\\sharedUsers.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\share\\sharedUsers\\sharedUsers.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/share/sharedUsers/sharedUsers.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 4321,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "ba68ae1989260ccbff84",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\createboard.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\createboard.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/boards/createboard.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 4309,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "7af7f8a0d8300ef2e751",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\share\\share.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\share\\share.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/share/share.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1772,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "21d6d1fba044120daefc",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boardstreeview\\boardstreeview.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boardstreeview\\boardstreeview.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/boards/boardstreeview/boardstreeview.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2973,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "a7f3dc66ea976367d43f",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\customize-object\\chartsList.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\customize-object\\chartsList.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/customize/customize-object/chartsList.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3917,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "98547b7a1199600d8431",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\customize-object\\customizeChartTab.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\customize-object\\customizeChartTab.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/customize/customize-object/customizeChartTab.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3125,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "c9fef99eea0222ae0600",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boards.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\boards\\boards.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/boards/boards.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2945,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "fe4e8f6937712e4f14a2",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\modalProperty\\modalProperty.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\modalProperty\\modalProperty.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/customize/modalProperty/modalProperty.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1994,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "ff3e433676e22ae18dd1",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\grid-filter\\grid-filter.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\grid-filter\\grid-filter.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/customize/grid-filter/grid-filter.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 4046,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "a4b56a669417c7da212a",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\toggle-object\\toggle-object.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\toggle-object\\toggle-object.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/customize/toggle-object/toggle-object.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2492,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "d0b38bcd728be727a2d6",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\select\\select.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\select\\select.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/select/select.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 4853,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "2a18743ce66a924371d6",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\divider\\divider.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\divider\\divider.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/divider/divider.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2732,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "74acca6c5cee9bd44ba6",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\chart\\chartsOptions.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\customize\\chart\\chartsOptions.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/customize/chart/chartsOptions.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3644,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "b61221b09920ed147e2a",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\odag\\odag.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\odag\\odag.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/odag/odag.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1835,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "fa72a958920d87d2b370",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\grid\\gridList.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\grid\\gridList.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/grid/gridList.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2412,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "aedb799b56042db11932",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\sideBar\\sideBarList\\sidebarTooltip.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\sideBar\\sideBarList\\sidebarTooltip.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/sideBar/sideBarList/sidebarTooltip.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 9578,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "3ceecb09b7f2e133f536",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\sideBar\\sideBarList\\sideBarBoardsList.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\sideBar\\sideBarList\\sideBarBoardsList.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/sideBar/sideBarList/sideBarBoardsList.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3474,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "6664d6cd9c505e2ea9e5",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\sideBar\\sideBar.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\sideBar\\sideBar.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/sideBar/sideBar.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1724,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "ae743196eaf1e6e22e5a",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\annotation\\annotationComments.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\annotation\\annotationComments.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/annotation/annotationComments.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 5068,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "b3da62a26cbe6e860bea",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\Calendars\\calendars.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\Calendars\\calendars.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/filterContainer/Calendars/calendars.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3709,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "bb6946e50b19993d9095",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\filters\\filterPane\\addFilterDropdown.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\filters\\filterPane\\addFilterDropdown.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/filterContainer/filters/filterPane/addFilterDropdown.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 32017,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "a715d21e25da935e49b3",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\filters\\filters.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\filters\\filters.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/filterContainer/filters/filters.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 11350,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "3469045f393e13ae3fb2",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\rightAlignedFilter\\rightAlignedFilter.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\rightAlignedFilter\\rightAlignedFilter.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/filterContainer/rightAlignedFilter/rightAlignedFilter.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 6501,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "b3376e5505f741a65635",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\rightAlignedFilter\\rightAlignedList.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\filterContainer\\rightAlignedFilter\\rightAlignedList.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/filterContainer/rightAlignedFilter/rightAlignedList.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 5892,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "259158faa3920374cb1e",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\dashboard.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\dashboard\\dashboard.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/dashboard/dashboard.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2052,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "0b0a22105aa930aa620f",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\GlobalSettings\\templateModalAdvanced.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\GlobalSettings\\templateModalAdvanced.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/report/GlobalSettings/templateModalAdvanced.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1797,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "f0401c9a6ad40cc88397",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\color\\color.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\color\\color.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/color/color.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 4910,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "1aafc85b733d7b30d0b8",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\GlobalSettings\\globalSettings.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\GlobalSettings\\globalSettings.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/report/GlobalSettings/globalSettings.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 7913,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "c84f02c41c514356ad55",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\globalActions.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\globalActions.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/report/globalActions.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2015,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "bbac9fbd9d599c71799b",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\ReportPages\\PageSettings\\pageSettings.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\ReportPages\\PageSettings\\pageSettings.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/report/ReportPages/PageSettings/pageSettings.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 6495,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "9798218e675dc79c1405",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\ReportPages\\pages.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\report\\ReportPages\\pages.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/report/ReportPages/pages.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2809,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "d5f338ac152388ac3b28",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\solutionConfig.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\solutionConfig.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/header/solutionConfig.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 17014,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "4260fd7bb3f95123b972",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\header.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\header.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/header/header.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2195,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "306d08117b35c2daa945",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\helpDocuments\\helpDocuments.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\helpDocuments\\helpDocuments.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/header/helpDocuments/helpDocuments.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3518,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "fe7f4c502d35d54e8e48",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\AddReports\\reportModal.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\header\\AddReports\\reportModal.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/header/AddReports/reportModal.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 5153,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "b0e9571fe1918681b626",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\solutions\\solutions.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\solutions\\solutions.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/solutions/solutions.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 27378,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "7258e097cd75f5fc49d3",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\adminPanel\\adminPanel.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\adminPanel\\adminPanel.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/adminPanel/adminPanel.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 1695,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "42dee04dd882df859ac4",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\custom-footer\\custom-footer.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\components\\common\\custom-footer\\custom-footer.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/components/common/custom-footer/custom-footer.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 2426,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "8ad90d053baef3143f7b",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\containers\\App.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\containers\\App.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/containers/App.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 11276,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "39416ab895816a0815d4",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\style.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\style.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/style.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 24745,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "74cb8faf9f5ea33d13b3",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\app.global.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\app\\app.global.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./app/app.global.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 12371,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "bde8a31b0505efca0406",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\react-sortable-tree\\style.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\react-sortable-tree\\style.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./~/react-sortable-tree/style.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        },
+        {
+            "errors": [],
+            "warnings": [],
+            "publicPath": "/",
+            "assetsByChunkName": {},
+            "assets": [],
+            "chunks": [
+                {
+                    "id": 0,
+                    "rendered": true,
+                    "initial": true,
+                    "entry": true,
+                    "extraAsync": false,
+                    "size": 3006,
+                    "names": [],
+                    "files": [
+                        "extract-text-webpack-plugin-output-filename"
+                    ],
+                    "hash": "169fd7d997fe12b9c3ed",
+                    "parents": [],
+                    "origins": [
+                        {
+                            "moduleId": 0,
+                            "module": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\react-resizable\\css\\styles.css",
+                            "moduleIdentifier": "C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\css-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\postcss-loader\\index.js!C:\\Office Projects\\Reporting\\ui-builder-client\\node_modules\\react-resizable\\css\\styles.css",
+                            "moduleName": "./~/css-loader!./~/postcss-loader!./~/react-resizable/css/styles.css",
+                            "loc": "",
+                            "reasons": []
+                        }
+                    ]
+                }
+            ],
+            "children": [],
+            "name": "extract-text-webpack-plugin"
+        }
+    ]
+}

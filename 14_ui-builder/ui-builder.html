@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>SenseOps - UI Builder</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="cleartype" content="on">
+    <link rel="shortcut icon" href="./static/images/Logo_Blue_fav.svg">
+    <link href="./static/styles/font-awesome/font-awesome.min.css" rel="stylesheet">
+    <link href="./static/styles/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link href="./assets/css/vendor.css" rel="stylesheet">
+    <link href="./static/styles/style.css" rel="stylesheet">
+    <link href="./assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="./ui-builder.css">
+    <style>
+        .loading-header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+        
+        #infoxd-root,
+        .theme-light {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+  <script>
+    function goBacktoDashboard() {
+      var url = new URL(window.location.href.split('#')[0]), search = window.location.href.split('/?')[1];
+      window.location.href = url.href + (search ? '#/?' + search: '');
+      document.querySelector("body").style.opacity=0
+      if(search) window.location.reload();
+    }
+  </script>
+</head>
+
+<body>
+    <div class="theme-light">
+        <div id="infoxd-root">
+            <div class="loading-header">
+                <div><svg width="100" height="100" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg" fill="#3a98d1">
+                        <circle cx="15" cy="15" r="11.1295">
+                            <animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15"
+                                calcMode="linear" repeatCount="indefinite"></animate>
+                            <animate attributeName="fillOpacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1"
+                                calcMode="linear" repeatCount="indefinite"></animate>
+                        </circle>
+                        <circle cx="60" cy="15" r="12.8705" attributeName="fillOpacity" from="1" to="0.3">
+                            <animate attributeName="r" from="9" to="9" begin="0s" dur="0.8s" values="9;15;9"
+                                calcMode="linear" repeatCount="indefinite"></animate>
+                            <animate attributeName="fillOpacity" from="0.5" to="0.5" begin="0s" dur="0.8s"
+                                values=".5;1;.5" calcMode="linear" repeatCount="indefinite"></animate>
+                        </circle>
+                        <circle cx="105" cy="15" r="11.1295">
+                            <animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15"
+                                calcMode="linear" repeatCount="indefinite"></animate>
+                            <animate attributeName="fillOpacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1"
+                                calcMode="linear" repeatCount="indefinite"></animate>
+                        </circle>
+                    </svg></div>
+            </div>
+        </div>
+        <div id="modal-infoxd-root"></div>
+        <div id="tooltip-infoxd-root"></div>
+        <div id="toaster-infoxd-root"></div>
+        <div id="context-infoxd-root"></div>
+        <div style="display: none;" id="errorPopup" class="Portal modal fade ss-modal show">
+            <div class="modal-dialog modal-dialog-centered QlikErrorModal">
+                <div class="modal-content">
+                    <div class="modal-header align-items-center ">
+                        <h4 id="errorPopupText" class="modal-title">Error</h4>
+                    </div>
+                    <div class="modal-body pt-3 d-flex align-items-center justify-content-center">
+                        <button id="errorPopupButton" class="btn btn-primary btn-primary-light" onclick="goBacktoDashboard()">
+                            Go back
+                            to Dashboard </button>
+                        <p id="errorPopupDesc" class="fs-14">
+                            </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        (function(arr) {
+            arr.forEach(function(item) {
+                if (item.hasOwnProperty('prepend')) {
+                    return;
+                }
+                Object.defineProperty(item, 'prepend', {
+                    configurable: true,
+                    enumerable: true,
+                    writable: true,
+                    value: function prepend() {
+                        var argArr = Array.prototype.slice.call(arguments),
+                            docFrag = document.createDocumentFragment();
+
+                        argArr.forEach(function(argItem) {
+                            var isNode = argItem instanceof Node;
+                            docFrag.appendChild(isNode ? argItem : document.createTextNode(String(argItem)));
+                        });
+
+                        this.insertBefore(docFrag, this.firstChild);
+                    }
+                });
+            });
+        })([Element.prototype, Document.prototype, DocumentFragment.prototype]);
+        (Promise.allSettled = Promise.allSettled || ((promises) => Promise.all(
+            promises.map(p => p
+                .then(value => ({
+                    status: "fulfilled",
+                    value
+                }))
+                .catch(reason => ({
+                    status: "rejected",
+                    reason
+                }))
+            )
+        )))
+    </script>
+    <script type="text/javascript" src="./static/js/polyfill.min.js"></script>
+    <script type="text/javascript" src="./assets/js/vendor.js"></script>
+    <script type="text/javascript" src="./assets/js/main.js"></script>
+</body>
+
+</html>

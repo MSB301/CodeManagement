@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="snap_capture_icon" transform="translate(-293 -677)">
+    <g id="Rectangle_123" data-name="Rectangle 123" transform="translate(293 677)" fill="none" stroke="#dbdddf" stroke-width="1">
+      <rect width="35" height="35" rx="17" stroke="none"/>
+      <rect x="0.5" y="0.5" width="34" height="34" rx="16.5" fill="none"/>
+    </g>
+    <g id="photo-camera" transform="translate(302 686)">
+      <g id="Group_36" data-name="Group 36" transform="translate(0 0)">
+        <path id="Path_61" data-name="Path 61" d="M15.587,36.915l-1.889-.01-1.81-2.763a.6.6,0,0,0-.495-.283H6.518a.593.593,0,0,0-.485.273L4.164,36.905l-1.751.01A2.452,2.452,0,0,0,0,39.385v7.985a2.469,2.469,0,0,0,2.413,2.49H15.587A2.469,2.469,0,0,0,18,47.369V39.385A2.451,2.451,0,0,0,15.587,36.915Zm1.226,10.454a1.265,1.265,0,0,1-1.226,1.275H2.413a1.265,1.265,0,0,1-1.226-1.275V39.385A1.247,1.247,0,0,1,2.413,38.13H4.48a.593.593,0,0,0,.485-.273l1.869-2.773h4.243l1.8,2.753a.607.607,0,0,0,.485.273l2.215.02A1.247,1.247,0,0,1,16.8,39.385v7.985h.01Z" transform="translate(0 -33.859)" fill="#7f95af"/>
+        <path id="Path_62" data-name="Path 62" d="M143.043,160.225a4.21,4.21,0,1,0,4.21,4.21A4.213,4.213,0,0,0,143.043,160.225Zm0,7.232a3.022,3.022,0,1,1,3.022-3.022A3.027,3.027,0,0,1,143.043,167.457Z" transform="translate(-133.994 -155.601)" fill="#7f95af"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="0.228" cy="0.228" rx="0.228" ry="0.228" transform="translate(14.443 6.066)" fill="#7f95af"/>
+        <path id="Path_63" data-name="Path 63" d="M397.772,186.575a.822.822,0,1,0,.822.822A.82.82,0,0,0,397.772,186.575Zm0,1.189a.366.366,0,0,1-.367-.367.367.367,0,0,1,.733,0A.366.366,0,0,1,397.772,187.764Z" transform="translate(-383.101 -181.107)" fill="#7f95af"/>
+      </g>
+    </g>
+  </g>
+</svg>

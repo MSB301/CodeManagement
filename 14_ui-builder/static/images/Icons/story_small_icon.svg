@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13">
+  <g id="story_small_icon" transform="translate(0)">
+    <g id="Group_19" data-name="Group 19" transform="translate(0)">
+      <path id="Path_29" data-name="Path 29" d="M51.667.52a.56.56,0,0,0-.59-.52H40.257a.56.56,0,0,0-.59.52V12.48a.56.56,0,0,0,.59.52h10.82a.56.56,0,0,0,.59-.52V.52Zm-10.82.52h9.639V11.96H40.847Z" transform="translate(-39.667)" fill="#989898"/>
+      <path id="Path_30" data-name="Path 30" d="M125.546,99.167h-5.892a.529.529,0,1,0,0,1.028h5.892a.529.529,0,1,0,0-1.028Z" transform="translate(-116.6 -96.131)" fill="#989898"/>
+      <path id="Path_31" data-name="Path 31" d="M125.546,189.833h-5.892a.529.529,0,1,0,0,1.028h5.892a.529.529,0,1,0,0-1.028Z" transform="translate(-116.6 -184.021)" fill="#989898"/>
+      <path id="Path_32" data-name="Path 32" d="M125.546,286.167h-5.892a.529.529,0,1,0,0,1.028h5.892a.529.529,0,1,0,0-1.028Z" transform="translate(-116.6 -277.405)" fill="#989898"/>
+    </g>
+  </g>
+</svg>

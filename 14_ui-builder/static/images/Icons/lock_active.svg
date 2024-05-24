@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.003" height="15" viewBox="0 0 11.003 15">
+  <g id="lock_active" data-name="lock active" transform="translate(-852.018 -370.75)">
+    <rect id="Rectangle_238" data-name="Rectangle 238" width="10.003" height="8.677" rx="1" transform="translate(852.518 376.573)" stroke-width="1" stroke="#4b4b4b" stroke-linecap="round" stroke-linejoin="round" fill="#4b4b4b"/>
+    <path id="Path_2494" data-name="Path 2494" d="M860.2,376.648v-2.506a3.177,3.177,0,0,0-3.384-2.893h0a3.177,3.177,0,0,0-3.384,2.893v2.506" transform="translate(0.699 0)" fill="none" stroke="#4b4b4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <ellipse id="Ellipse_130" data-name="Ellipse 130" cx="1.257" cy="1.257" rx="1.257" ry="1.257" transform="translate(856.262 379.543)" fill="#fff"/>
+    <line id="Line_119" data-name="Line 119" y1="2.238" transform="translate(857.519 381.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

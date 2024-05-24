@@ -1,0 +1,14 @@
+{
+    "type": "mashup",
+    "name": "UI Builder",
+    "description": "Sep2022",
+    "version": "092022.07",
+    "author": "SenseOps",
+    "homepage": "",
+    "keywords": "qlik-sense, visualization, mashup",
+    "license": "SenseOps",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}

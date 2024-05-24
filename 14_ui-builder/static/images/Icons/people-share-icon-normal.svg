@@ -1,0 +1,7 @@
+<svg id="people-share-icon-normal" xmlns="http://www.w3.org/2000/svg" width="17.152" height="16" viewBox="0 0 17.152 16">
+  <g id="Group_222" data-name="Group 222">
+    <path id="Path_75" data-name="Path 75" d="M48.592,15.352a.67.67,0,0,0,.685.648H60.907a.67.67,0,0,0,.685-.648c0-3.587-1.714-6.666-4.124-7.9A4,4,0,0,0,59.4,4.062a4.308,4.308,0,0,0-8.6,0,4.017,4.017,0,0,0,1.931,3.392C50.306,8.686,48.592,11.765,48.592,15.352ZM55.092,1.3a2.854,2.854,0,0,1,2.924,2.766,2.929,2.929,0,0,1-5.849,0A2.854,2.854,0,0,1,55.092,1.3Zm0,6.86c2.673,0,4.866,2.885,5.106,6.547H49.986C50.226,11.041,52.419,8.157,55.092,8.157Z" transform="translate(-48.592)" fill="#7f95af"/>
+  </g>
+  <line id="Line_70" data-name="Line 70" y2="4" transform="translate(14.652 1.176)" fill="none" stroke="#7f95af" stroke-linecap="round" stroke-width="1"/>
+  <line id="Line_71" data-name="Line 71" y2="4" transform="translate(16.652 3.176) rotate(90)" fill="none" stroke="#7f95af" stroke-linecap="round" stroke-width="1"/>
+</svg>
