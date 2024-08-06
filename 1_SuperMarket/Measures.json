@@ -1,0 +1,1 @@
+[{"qInfo":{"qId":"usjC","qType":"measure"},"qMetaDef":{"description":"","title":"Sum of cogs","tags":[]},"qMeasure":{"qActiveExpression":0,"qDef":"sum(cogs)","qGrouping":"N","qLabel":"Sum of cogs","coloring":{},"qExpressions":[],"qNumFormat":{"qType":"U","qUseThou":0,"qnDec":10}}}]
